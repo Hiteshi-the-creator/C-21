@@ -1,2 +1,2 @@
-# C-21
-Function arguments(collision detection n bounce)
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
